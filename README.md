@@ -1,4 +1,4 @@
-# AsteroidsGame made using Haskell wiith object-oriented programming in mind.
+# AsteroidsGame made using Haskell with object-oriented programming in mind.
 You control the spaceship using arrow keys and shoot and move by pressing UP-arrow key
 Starting the game using Pharo
 ![How-To-Start](https://user-images.githubusercontent.com/61118760/133893975-20fc2e61-300f-48c7-81ab-5f73bc7cc089.png)
